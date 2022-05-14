@@ -1,0 +1,12 @@
+Blocos de montagem CSS;
+Trabalhando com folhas de estilo;
+Definindo seletores;
+Formatando textos com estilos;
+Layout com estilo;
+Folhas de estilos de portáteis a desktop;
+Trabalhando com fontes web;
+Aprimoramentos com o CSS3;
+Listas;
+Formulários;
+Vídeo, áudio e outras mídias;
+Tabelas;

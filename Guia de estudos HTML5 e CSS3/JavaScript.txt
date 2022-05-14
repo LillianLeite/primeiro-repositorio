@@ -1,0 +1,3 @@
+Trabalhando com scripts;
+Testando e depurando páginas da web;
+Publicando páginas da web;
